@@ -8,15 +8,15 @@
   linktitle: autorizzazione al rilascio del passaporto delle piante
   linkurl: https://serviziinrete.regione.umbria.it/Servizi/RicercaServizi?id_ente=1&id_dipartimento=12&nome_famiglia=Servizio%20Fitosanitario%20Regionale&form_id=richiesta_passaporto_piante
 
-- title: Documenti
-  file: documenti.md
-  icon: files
-
+- title: Servizi collegati
+  file: servizicollegati.md
+  icon: link
+  
 - title: Faq
   file: faq.md
   type: callout
   icon: help
 
-- title: Servizi collegati
-  file: servizicollegati.md
-  icon: link
+- title: Documenti
+  file: documenti.md
+  icon: files
