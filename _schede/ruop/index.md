@@ -15,4 +15,6 @@ evidenza: 0
 redirect_from:
     - schede/ruop/imprese/index.html
     - schede/ruop/intermediari/index.html
+    - schede/ruop/cittadini/index.html
+    
 ---
