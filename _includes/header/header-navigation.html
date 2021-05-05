@@ -77,7 +77,12 @@ tutte le pagine del sito che:
                 <ul class="navbar-nav">
                   {% for menu_page in current_menu_pages %}
                   <li class="nav-item">
-                    <a class="nav-link" href="{{ site.baseurl }}{{menu_page.permalink}}"><span>{{menu_page.title}}</span></a>
+                    {% if menu_page.ref  == "Home" %}
+                       {% assign menu_item = menu_page.ref %}
+                    {% else %}
+                        {% assign menu_item = menu_page.title %}
+                    {% endif %}
+                     <a class="nav-link" href="{{ site.baseurl }}{{menu_page.permalink}}"><span>{{menu_item}}</span></a>
                   </li>
                   {% endfor %}
                   {% include header/demo-menu.html%}
