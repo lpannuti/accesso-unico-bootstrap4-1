@@ -3,7 +3,7 @@
   "background_color": "#9c2328",
   "display": "browser",
   "scope": "/",
-  "start_url": "https://beta.accessounico.regione.umbria.it/",
+  "start_url": "/",
   "name": "Portale regionale dell'Accesso Unico ai servizi dei cittadini e delle imprese",
   "short_name": "Accesso Unico",
   "description": "semplifichiamo l\u2019accesso ai servizi della Pubblica Amministrazione in Umbria",
