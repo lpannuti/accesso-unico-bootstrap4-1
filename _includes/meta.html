@@ -1,5 +1,5 @@
 {%- capture meta_title -%}
-{{ site.data.t.name[page.lang] }}{% if page.title and page.title != 'Homepage' %} | {{ page.title }}{% endif %}
+{{ site.data.t.name[page.lang] }}{% if page.title and page.ref != 'Home' %} | {{ page.title }}{% endif %}
 {%- endcapture -%}
 
 {%- capture meta_description -%}
