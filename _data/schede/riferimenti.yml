@@ -125,8 +125,8 @@ autorizzazionepaesaggistica:
     descrizione_direzione: "Direzione regionale governo del territorio, ambiente, protezione civile"
     nome_ufficio: "Servizio Urbanistica, Riqualificazione urbana e Politiche della casa, tutela del paesaggio"
     indirizzo: "Piazza Partigiani n. 1 - 06121 Perugia"
-    telefono: "0755042632"
-    email: "scostantini@regione.umbria.it"
+    telefono: "0755042776"
+    email: "pgattini@regione.umbria.it"
     pec: "direzioneambiente.regione@postacert.umbria.it"
     nome_responsabile: "Sabrina Scarabattoli"
     telefono_responsabile: "0755042826"
@@ -147,8 +147,8 @@ elencoesperti:
     descrizione_direzione: "Direzione regionale governo del territorio, ambiente, protezione civile"
     nome_ufficio: "Servizio Urbanistica, Riqualificazione urbana e Politiche della casa, tutela del paesaggio"
     indirizzo: "Piazza Partigiani n. 1 - 06121 Perugia"
-    telefono: "0755042632"
-    email: "scostantini@regione.umbria.it"
+    telefono: "0755042776"
+    email: "pgattini@regione.umbria.it"
     pec: "direzioneambiente.regione@postacert.umbria.it"
     nome_responsabile: "Sabrina Scarabattoli"
     telefono_responsabile: "0755042826"
@@ -156,10 +156,10 @@ elencoesperti:
 
 abilacconciatore:
     descrizione_direzione: "Direzione regionale sviluppo economico, agricoltura, lavoro, istruzione, agenda digitale"
-    nome_ufficio: "Servizio Politiche industriali, Rapporti con le imprese multinazionali, Sviluppo delle Imprese, start up e creazione d'impresa, commercio e artigianato"
+    nome_ufficio: "Servizio Politiche industriali e per la competitività del sistema produttivo, creazione e sviluppo delle imprese, commercio e tutela dei consumatori, Artigianato"
     indirizzo: "Via M. Angeloni, 61 - 06124 Perugia"
-    telefono: "0755046424"
-    email: "mandrielli@regione.umbria.it"
+    telefono: "0755045674"
+    email: "ccipiciani@regione.umbria.it"
     pec: "direzionesviluppo.regione@postacert.umbria.it"
     nome_responsabile: "Graziella Ciotto"
     telefono_responsabile: "0755045759"
@@ -183,9 +183,9 @@ certificazionefitosanitaria:
     telefono: "0755045104"
     email: "fitosanitario@regione.umbria.it"
     pec: "direzioneagricoltura.regione@postacert.umbria.it"
-    nome_responsabile: "Ivana Stella"
-    telefono_responsabile: "0755045795"
-    email_responsabile: "istella@regione.umbria.it"
+    nome_responsabile: "Valter Rondolini"
+    telefono_responsabile: "0755045149"
+    email_responsabile: "vrondolini@regione.umbria.it"
 
 manutenzioneverde:
     descrizione_direzione: "Direzione regionale sviluppo economico, agricoltura, lavoro, istruzione, agenda digitale"
@@ -194,9 +194,9 @@ manutenzioneverde:
     telefono: "0755045104"
     email: "fitosanitario@regione.umbria.it"
     pec: "direzioneagricoltura.regione@postacert.umbria.it"
-    nome_responsabile: "Ivana Stella"
-    telefono_responsabile: "0755045795"
-    email_responsabile: "istella@regione.umbria.it"
+    nome_responsabile: "Valter Rondolini"
+    telefono_responsabile: "0755045149"
+    email_responsabile: "vrondolini@regione.umbria.it"
 
 nullaostaimport:
     descrizione_direzione: "Direzione regionale sviluppo economico, agricoltura, lavoro, istruzione, agenda digitale"
@@ -205,9 +205,9 @@ nullaostaimport:
     telefono: "0755045104"
     email: "fitosanitario@regione.umbria.it"
     pec: "direzioneagricoltura.regione@postacert.umbria.it"
-    nome_responsabile: "Ivana Stella"
-    telefono_responsabile: "0755045795"
-    email_responsabile: "istella@regione.umbria.it"
+    nome_responsabile: "Valter Rondolini"
+    telefono_responsabile: "0755045149"
+    email_responsabile: "vrondolini@regione.umbria.it"
 
 autstazionemontaequina:
     descrizione_direzione: "Direzione regionale sviluppo economico, agricoltura, lavoro, istruzione, agenda digitale"
@@ -238,9 +238,9 @@ tariffafitosanitaria:
     telefono: "0755045104"
     email: "fitosanitario@regione.umbria.it"
     pec: "direzioneagricoltura.regione@postacert.umbria.it"
-    nome_responsabile: "Ivana Stella"
-    telefono_responsabile: "0755045795"
-    email_responsabile: "istella@regione.umbria.it"
+    nome_responsabile: "Valter Rondolini"
+    telefono_responsabile: "0755045149"
+    email_responsabile: "vrondolini@regione.umbria.it"
 
 zonepescaregolamentata:
     descrizione_direzione: "Direzione regionale sviluppo economico, agricoltura, lavoro, istruzione, agenda digitale"
@@ -249,9 +249,9 @@ zonepescaregolamentata:
     telefono: "0755045053"
     email: "fgrohmann@regione.umbria.it"
     pec: "direzioneagricoltura.regione@postacert.umbria.it"
-    nome_responsabile: "Lucia Ghetti"
+    nome_responsabile: "Crea francesca"
     telefono_responsabile: "0755045066"
-    email_responsabile: "lghetti@regione.umbria.it"
+    email_responsabile: "fcrea@regione.umbria.it"
 
 licenzapescasportiva:
     descrizione_direzione: "Direzione regionale sviluppo economico, agricoltura, lavoro, istruzione, agenda digitale"
@@ -260,9 +260,9 @@ licenzapescasportiva:
     telefono: "0755045053"
     email: "fgrohmann@regione.umbria.it"
     pec: "direzioneagricoltura.regione@postacert.umbria.it"
-    nome_responsabile: "Lucia Ghetti"
+    nome_responsabile: "Crea Francesca"
     telefono_responsabile: "0755045066"
-    email_responsabile: "lghetti@regione.umbria.it"
+    email_responsabile: "fcrea@regione.umbria.it"
 
 tesserinopesca:
     descrizione_direzione: "Direzione regionale sviluppo economico, agricoltura, lavoro, istruzione, agenda digitale"
@@ -271,9 +271,9 @@ tesserinopesca:
     telefono: "0755045053"
     email: "fgrohmann@regione.umbria.it"
     pec: "direzioneagricoltura.regione@postacert.umbria.it"
-    nome_responsabile: "Lucia Ghetti"
+    nome_responsabile: "Francesca Crea"
     telefono_responsabile: "0755045066"
-    email_responsabile: "lghetti@regione.umbria.it"
+    email_responsabile: "fcrea@regione.umbria.it"
 
 autcentriprivati:
     descrizione_direzione: "Direzione regionale sviluppo economico, agricoltura, lavoro, istruzione, agenda digitale"
